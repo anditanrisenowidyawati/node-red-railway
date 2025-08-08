@@ -1,0 +1,12 @@
+{
+  "name": "node-red-railway",
+  "version": "1.0.0",
+  "description": "Node-RED deployment on Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-red -v -u ."
+  },
+  "dependencies": {
+    "node-red": "^3.1.0"
+  }
+}
